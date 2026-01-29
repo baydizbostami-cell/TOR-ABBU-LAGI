@@ -25,7 +25,7 @@
 	"owner": ["100093031841247"],
 	"whiteListMode": {
 		"enable": false,
-		"whiteListIds": ["100045644423035"],
+		"whiteListIds": ["100093031841247"],
 		"notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
 	},
 	"whiteListModeThread": {
