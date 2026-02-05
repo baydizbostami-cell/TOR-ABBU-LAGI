@@ -18,7 +18,7 @@ module.exports = {
 			const ownerInfo = {
 				name: 'LꫝBiB',
 				gender: '𝑴𝒂𝑳𝒆',
-				Age 	: '18+',
+				Age 	: '22.10.2008',
 				religion: '𝙄𝒔𝒍𝑨𝒎',
 				hobby: '𝑺𝒍𝒆𝒆𝑷𝒊𝒏𝑮',
 				Fb: 'https://www.facebook.com/labib203',
