@@ -16,14 +16,14 @@ module.exports = {
 	onStart: async function ({ api, event }) {
 		try {
 			const ownerInfo = {
-				name: '𝑬𝒘𝑹 𝑺𝒉𝑨𝒏',
+				name: 'LꫝBiB',
 				gender: '𝑴𝒂𝑳𝒆',
-				Birthday: '10-𝟎𝟕-𝟐𝟎𝟎5',
+				Age 	: '18+',
 				religion: '𝙄𝒔𝒍𝑨𝒎',
 				hobby: '𝑺𝒍𝒆𝒆𝑷𝒊𝒏𝑮',
-				Fb: 'https://www.facebook.com/Sh4n.Dev1',
-				Relationship: '𝑺𝒊𝒏𝑮𝒆𝒍',
-				Height: '5"3'
+				Fb: 'https://www.facebook.com/labib203',
+				Relationship: '𝑺𝒊𝒏𝑮𝒍e',
+				Height: '5"10'
 			};
 
 			const bold = 'https://drive.google.com/uc?export=download&id=1J4yQ13L2WTpdOuqcP0yEmzULACdwfvnQ';
