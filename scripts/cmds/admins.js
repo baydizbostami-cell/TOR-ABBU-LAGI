@@ -17,7 +17,7 @@ module.exports = {
         en: {
             listAdmin: "🎭 ADMIN LIST 🎭"
                 + "\n ♦___________________♦"
-                + "\n ❃ OWNER:♣ꫝhmed LꫝBiB♣SuMoN♣MaHfuJ♣"
+                + "\n ❃ OWNER:♣ ꫝhmed LꫝBiB ♣  SuMoN  ♣  MaHfuJ  ♣"
                 + "\n _____________________________"
                 + "\n _____♪ ADMIN ♪_____"
                 + "\n %1"
