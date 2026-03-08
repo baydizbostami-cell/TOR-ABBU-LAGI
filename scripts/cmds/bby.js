@@ -12,7 +12,7 @@ const cError = (api, threadID, messageID) =>
 
 module.exports.config = {
   name: "bby",
-  aliases: ["baby","bbu", "shan"],
+  aliases: ["baby","bbu", "Labib"],
   version: "1.6.9",
   author: "♡︎ 𝗦𝗵𝗔𝗻 ♡︎",
   role: 0,
@@ -183,7 +183,7 @@ module.exports.onStart = async ({ api, event, args, usersData }) => {
 module.exports.onChat = async ({ api, event }) => {
   const { threadID, messageID, body, senderID } = event;
 
-  const cMessages = ["🎀 Hello bby!", "🎀 Ato dako kno👺", "🎀 Boss Labib er chipay atke gesi.😐😝","Ki korte pari tmr jonno?","Boss Labib er sathe busy achi😐🫶","Boss Sumon er Chipay atke geci😐🥴"];
+  const cMessages = ["🎀 Hello bby!", "🎀 Ato dako kno👺", "🎀 Boss Labib er chipay atke gesi.😐😝","Ki korte pari tmr jonno?","Boss Labib er sathe busy achi😐🫶","Boss Labib Kintu tmk mair dibe😐🤜"];
 
   const userInput = body.toLowerCase().trim();
   const keywords = ["bby", "hii", "baby", "bot", "বট", "robot"];
