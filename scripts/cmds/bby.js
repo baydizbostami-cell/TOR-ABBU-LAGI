@@ -183,10 +183,10 @@ module.exports.onStart = async ({ api, event, args, usersData }) => {
 module.exports.onChat = async ({ api, event }) => {
   const { threadID, messageID, body, senderID } = event;
 
-  const cMessages = ["🎀 Hello bby!", "🎀 Ato dako kno👺", "🎀 Boss Labib er chipay atke gesi.😐😝","Ki korte pari tmr jonno?","Boss Labib er sathe busy achi😐🫶","Boss Labib Kintu tmk mair dibe😐🤜"];
+  const cMessages = ["🎀 Hello bby!", "Ato dako kno👺 Btw Tmra dakle amr vlo lage😑👋", "🎀 Boss Labib er chipay atke gesi.😐😝","Ki korte pari tmr jonno?","Boss Labib er sathe busy achi😐🫶","Boss Labib Kintu tmk mair dibe😐🤜","Ato bby bby na kore AhmeD'z Labib ke akta Gf khuje dite paro🫠😌","Meye hole Boss Labib ar Bou hoye jau Vlobashbe onk😌🫶","Need Bou Labib er jonno😌🫶"];
 
   const userInput = body.toLowerCase().trim();
-  const keywords = ["bby", "hii", "baby", "bot", "বট", "robot"];
+  const keywords = ["bby", "hii", "baby", "bot", "বট", "Labib"];
 
   if (keywords.some((keyword) => userInput.startsWith(keyword))) {
     const isQuestion = userInput.split(" ").length > 1;
