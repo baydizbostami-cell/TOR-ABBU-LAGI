@@ -183,7 +183,7 @@ module.exports.onStart = async ({ api, event, args, usersData }) => {
 module.exports.onChat = async ({ api, event }) => {
   const { threadID, messageID, body, senderID } = event;
 
-  const cMessages = ["🎀 Hello bby!", "Ato dako kno👺 Btw Tmra dakle amr vlo lage😑👋", "🎀 Boss Labib er chipay atke gesi.😐😝","Ki korte pari tmr jonno?","Boss Labib er sathe busy achi😐🫶","Boss Labib Kintu tmk mair dibe😐🤜","Ato bby bby na kore AhmeD'z Labib ke akta Gf khuje dite paro🫠😌","Meye hole Boss Labib ar Bou hoye jau Vlobashbe onk😌🫶","Need Bou Labib er jonno😌🫶"];
+  const cMessages = ["🎀 Hello bby!", "Ato dako kno👺 Btw Tmra dakle amr vlo lage😑👋", "🎀 Boss Labib er chipay atke gesi.😐😝","Ki korte pari tmr jonno?","Boss Labib er sathe busy achi😐🫶","Boss Labib Kintu tmk mair dibe😐🤜","Ato bby bby na kore AhmeD'z Labib ke akta Gf khuje dite paro🫠😌","Meye hole Boss Labib ar Bou hoye jau Vlobashbe onk😌🫶","Need Bou Labib er jonno😌🫶","tmi ki Labib er Xhipay jete chaw?🥸🎀","Meye hole Labib er gf hoye jau😘🎀","Admin Arura Jayan Chowdhury kintu mair dibe.😾🤜"];
 
   const userInput = body.toLowerCase().trim();
   const keywords = ["bby", "hii", "baby", "bot", "বট", "Labib"];
