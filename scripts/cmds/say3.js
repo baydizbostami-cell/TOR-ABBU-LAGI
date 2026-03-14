@@ -44,7 +44,7 @@ module.exports = {
 					
 			} catch (e) {
         console.log(e)
-        message.reply(`MADARCHOD MAHI VAI CHARA AMK DIYA GALI DEWAILE TUI GAY `) }
+        message.reply(`-Moderchod tur mayre xdi.🥵.khankir pola buja xuda bessar baccha.. 😾 Tur boin re Kutta diya xdamu.. Dhon tmr Apur pison diya boira dimu...buka xdar baccha..manger nati...Tur 14 gusti re xdi..-bainchood.. Besshar baccha...Buka xda nobiner baccha tur ma.. Mara dite jaia.. Kondom faitta tur jonmo hoicilo...buka xda..bessar baccha...Xdi xdi xdi tur boinere xdi...KUtta diya...Kuttar dhon chushamu..tur ma boinere...Motherchod...🤬 Ekhane aisha.. Baichod giri xudaile. Tur.. Dhon kaitta hate dhoray dibo...bessar baccha..🤬🤬`) }
 
 	}
 };
