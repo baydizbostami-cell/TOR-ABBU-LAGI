@@ -13,16 +13,16 @@
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
 	"nickNameBot": "Maya Bby",
-	"prefix": ".",
+	"prefix": "-",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
 	},
 	"adminBot": [
-		"100075555558537"
+		"61551869750530"
 	
 	],
-	"owner": ["100045644423035"],
+	"owner": ["61590256110608"],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": ["100093031841247"],
